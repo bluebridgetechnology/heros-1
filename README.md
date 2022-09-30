@@ -17,7 +17,7 @@ TX77002MainStreet4201_TheIon_1.geojson
 
 theIon.geojson file uploaded Monday, September 26th is not projected, whereas
 theIon.geojson file uploaded Thursday, September 22nd, 2022 is projected -- on the WGS 1984 Coordinate System
-Use the most recent theIon.geojson for stairwell Alt testing for FRST Challenge.
+Use the most recent theIon.geojson for stairwell Alt testing for FRST Challenge trials.
 
 This software is compatible with the Windows 10 operating system on a Panasonic Toughbook laptop computer. 
 
@@ -37,8 +37,9 @@ Google Maps Developers tools were used to arrive at this solution, which tested 
 Do not share or distribute without permission. 
 Source code property of Rescunomics LLC.
 Contact CEO: emmanuel@rescunomics.com
-Contact CTO: ezra@architectingio.com, ezra@rescunomics.com
 
 The files in this directory were compiled by Architecting I/O for Rescunomics LLC.
 OUTSTANDING BALANCE: $37,890 OWED TO ARCHITECTING I/O LLC
 & UNRESOLVED SITUATION WITH OLUWASEUN KOLAWOLE. WARNING.
+
+FOR MORE INFORMATION CONTACT ezra@architectingio.com
