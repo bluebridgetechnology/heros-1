@@ -1,6 +1,6 @@
 # heros 
 
-##Heros is a mobile-friendly web application that works by showing Incident Commanders the floorplan to a building prior to their team arriving to the scene of an emergency. 
+### Heros is a mobile-friendly web application that works by showing Incident Commanders the floorplan to a building prior to their team arriving to the scene of an emergency. 
 
 Our web application development process, under the direction of Architecting I/O's scrum master (@ladyluxx on GitHub) conforms to the Scaled Agile Framework® (SAFe®), which is a set of organization and workflow patterns for implementing agile practices at enterprise scale. Our prioritization model of Weighted Shortest Job First (WSJF) enabled us to implement the MVP in order to convince stakeholders our application development project was worth investing in so that the employees and independent contractors working for Rescunomics LLC could scale the application from mere proof-of-concept to county to statewide to nationwide and beyond. 
 
@@ -23,7 +23,7 @@ theIon.geojson file uploaded Monday, September 26th is not projected, whereas
 theIon.geojson file uploaded Thursday, September 22nd, 2022 is projected -- on the WGS 1984 Coordinate System
 Use the most recent theIon.geojson for stairwell Alt testing for FRST Challenge trials so that the beacon displays accurately in the isometric perspective.
 
-##INDOOR GEOLOCATION TRACKING FEATURE: To access the indoor geolocation tracking feature independently of the UI/UX, go to: https://rescunomics.github.io/heros with a Google Pixel6a Android using the Chrome browser from your smartphone.
+### INDOOR GEOLOCATION TRACKING FEATURE: To access the indoor geolocation tracking feature independently of the UI/UX, go to: https://rescunomics.github.io/heros with a Google Pixel6a Android using the Chrome browser from your smartphone.
 
 The indoor geolocation tracking feature was compiled by Architecting I/O's Ryan Leach (@leachandryan on GitHub) to display a smartphone user's Lat Lng Alt (x, y, z) location in the bottom left hand corner of the screen. The z-values are in meters and are not a reflection of elevation nor height above terrain, but show a change in value between floors as you move up/down the storys of a building. For instance: 
 -Going from floor 1 to floor 2 in a building whose ceilings are 7m (or 21' tall), will show a change in Alt values of +7m. Our z-values are accurate to within <1m. 
