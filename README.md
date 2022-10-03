@@ -40,8 +40,8 @@ Do not share or distribute without permission.
 Source code property of Rescunomics LLC.
 Contact CEO: emmanuel@rescunomics.com
 
-The files in this directory were compiled by Architecting I/O LLC for Rescunomics LLC.
-OUTSTANDING BALANCE: $37,890 OWED TO ARCHITECTING I/O LLC BY RESCUNOMICS LLC AND
+>The files in this directory were compiled by Architecting I/O LLC for Rescunomics LLC.
+>OUTSTANDING BALANCE: $37,890 OWED TO ARCHITECTING I/O LLC BY RESCUNOMICS LLC AND
 >$25,000 OWED TO NIGERIAN WEB DEVELOPER OLUWASEUN KOLAWOLE. WARNING TO PAID DEVELOPERS! 
-DO NOT BECOME A VICTIM! DO NOT TRUST THE CEO OF RESCUNOMICS LLC EMMANUEL JOEL, HE IS A LIAR!
-Civil and criminal proceedings to follow. FOR MORE INFORMATION, CONTACT: ezra@architectingio.com
+>DO NOT BECOME A VICTIM! DO NOT TRUST THE CEO OF RESCUNOMICS LLC EMMANUEL JOEL, HE IS A LIAR!
+>Civil and criminal proceedings to follow. FOR MORE INFORMATION, CONTACT: ezra@architectingio.com
